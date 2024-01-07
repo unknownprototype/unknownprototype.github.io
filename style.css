@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgb(37, 38, 37);
+    color: whitesmoke;
+}
